@@ -1,4 +1,6 @@
-# API Strategic Platform
+# Stratum Platform
+
+> Plataforma Estratégica Multi-Domínio — Finance · Projects · Legal
 
 ## Visao Geral
 

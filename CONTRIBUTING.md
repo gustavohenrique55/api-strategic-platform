@@ -1,4 +1,4 @@
-# Contribuindo
+# Contribuindo — Stratum Platform
 
 ## Regras Gerais
 
