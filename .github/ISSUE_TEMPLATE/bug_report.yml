@@ -1,0 +1,27 @@
+name: Bug report
+description: Reportar problema funcional, tecnico ou de fluxo
+labels: [bug]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: Resumo
+      placeholder: Descreva o problema em uma frase
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos para reproduzir
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado
+    validations:
+      required: true

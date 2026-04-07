@@ -1,0 +1,29 @@
+name: Feature request
+description: Propor funcionalidade para Finance, Projects ou Legal
+labels: [enhancement]
+body:
+  - type: input
+    id: objective
+    attributes:
+      label: Objetivo
+      placeholder: Qual resultado de negocio voce quer?
+    validations:
+      required: true
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Dominio
+      options:
+        - Finance
+        - Projects
+        - Legal
+        - Shared/Platform
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposta
+      placeholder: Descreva a solucao proposta
+    validations:
+      required: true
