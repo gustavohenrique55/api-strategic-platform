@@ -42,6 +42,19 @@ Comandos (aliases globais):
 - `git starttask tipo/nome-da-tarefa`
 - `git shiptask "tipo: mensagem do commit"`
 
+## Identidade de Marca
+
+- Marca principal: **STRATUM**
+- Produto deste repositório: **Stratum Platform**
+- Slogan: **Decisões em Camadas. Execução com Precisão.**
+- Naming padrão dos domínios: `Stratum Finance`, `Stratum Projects`, `Stratum Legal`
+- Paleta oficial:
+    - Midnight: `#0B1F3A`
+    - Cobalt: `#1F5AA6`
+    - Teal: `#10B3A3`
+    - Cloud: `#F4F7FB`
+    - Slate: `#4B5563`
+
 ## Proximos Passos
 
 - definir stack tecnica (Node/TS, Python ou outra)
